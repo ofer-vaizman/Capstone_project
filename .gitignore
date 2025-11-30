@@ -1,0 +1,6 @@
+__pycache__/
+*.pyc
+*.sqlite3
+autoapply_sessions.db
+jobpilot_chroma_db/
+.ipynb_checkpoints/
